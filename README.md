@@ -28,7 +28,7 @@ git clone https://github.com/Aswathks/Portfolio.git
 ```
 ## Contact
 
-If you want to contact me you can reach me at [Gmail](shanthiaswath05@gmail.com).
+If you want to contact me you can reach me at Gmail:shanthiaswath05@gmail.com.
 
 ## License
 
