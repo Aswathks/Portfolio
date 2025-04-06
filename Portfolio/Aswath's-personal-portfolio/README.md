@@ -22,13 +22,12 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com:Aswathks/Portfolio.git
-```
+sudo git clone git@github.com:Aswathks/Portfolio.git
 
 Windows:
 
 ```bash
-git clone https://github.com:Aswathks/Portfolio.git
+git clone git@github.com:Aswathks/Portfolio.git
 ```
 
 ## Contact
