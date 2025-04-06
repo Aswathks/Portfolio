@@ -1,2 +1,39 @@
-# Portfolio
-This is a personal portfolio website crafted to reflect my journey as a Machine Learning Engineer. It showcases my skills, services, experiences, and featured projects — from AI-powered solutions like face sentiment analysis to real-time face detection systems. Built using HTML, CSS, and JavaScript, the site is fully responsive and user-friendly.
+# vCard - Personal portfolio
+
+
+
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+
+## Demo
+
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+## Installing vCard
+
+To install **vCard**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/Aswathks/Portfolio.git
+
+Windows:
+
+```bash
+git clone https://github.com/Aswathks/Portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Gmail](shanthiaswath05@gmail.com).
+
+## License
+
+MIT
